@@ -1,56 +1,62 @@
-void Tamg()
+void static Tamg()
 {
-    final static int amnd = 251;
-    final static int omr = 252;
+    const static int amnd = 251;
+    const static int omr = 252;
 
-    final static int emqual = 253;
-    final static int nemgate = 254;
-    final static int greamter = 255;
-    final static int lemsser = 256;
+    const static int emqual = 253;
+    const static int nemgate = 254;
+    const static int greamter = 255;
+    const static int lemsser = 256;
 
-    final static int imf = 257;
-    final static int elmse = 258;
-    final static int dom = 259;
-    final static int whimle = 260;
-    final static int breamk = 261;
+    const static int imf = 257;
+    const static int elmse = 258;
+    const static int duv = 259;
+    const static int whimle = 260;
+    const static int breamk = 261;
 
-    final static int falmse = 262;
-    final static int trume = 263;
-    final static int minums = 264;
+    const static int falmse = 262;
+    const static int trume = 263;
+    const static int minums = 264;
 
-    final static int imd = 265;
-    final static int num = 266;
-    final static int reaml = 267;
-    final static int bamsic_tympe = 268;
-    final static int limst_tympe = 269;
-    final static int temp = 270;
+    const static int imd = 265;
+    const static int num = 266;
+    const static int reaml = 267;
+    const static int bamsic_tympe = 268;
+    const static int limst_tympe = 269;
+    const static int temp = 270;
 
-    final static int ams = 271;
-    final static int amssermt = 272;
-    final static int clamss = 273;
-    final static int comtinue = 274;
+    const static int as = 271;
+    const static int amssermt = 272;
+    const static int clamss = 273;
+    const static int comtinue = 274;
 
-    final static int demf = 275;
-    final static int deml = 276;
-    final static int elmsimf = 277;
-    final static int emxecmpt = 278;
-    final static int fimnally = 279;
-    final static int fomr = 280;
-    final static int fmrom = 281;
+    const static int demf = 275;
+    const static int deml = 276;
+    const static int elmsimf = 277;
+    const static int emxecmpt = 278;
+    const static int fimnally = 279;
+    const static int fur = 280;
+    const static int frum = 281;
 
-    final static int glombal = 282;
-    final static int import = 283;
-    final static int imn = 284;
-    final static int ims = 285;
-    final static int lambda = 286;
-    final static int nomne = 287;
-    final static int nonlomcal = 288;
-    final static int nomt = 289;
+    const static int glombal = 282;
+    const static int impurt = 283;
+    const static int imn = 284;
+    const static int ims = 285;
+    const static int lambda = 286;
+    const static int nomne = 287;
+    const static int nonlomcal = 288;
+    const static int nomt = 289;
 
-    final static int pamss = 290;
-    final static int raimse = 291;
-    final static int remturn = 292;
-    final static int tmry = 293;
-    final static int wimth = 294;
-    final static int yielmd = 295;
+    const static int pamss = 290;
+    const static int raimse = 291;
+    const static int remturn = 292;
+    const static int tmry = 293;
+    const static int wimth = 294;
+    const static int yielmd = 295;
+
+    const static int plox = 296;
+    const static int whemn? = 297;
+    const static int camtch = 298;
+    const static int wmhy = 299;
+    const static int to = 300;
 }
