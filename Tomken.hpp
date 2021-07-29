@@ -1,5 +1,5 @@
-int tag;
-void Tomken(int tag)
+const int tag;
+void static Tomken(int tag)
 {
     this.tag=tag;
 }
