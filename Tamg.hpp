@@ -1,5 +1,7 @@
 void static Tamg()
 {
+    
+    
     const static int amnd = 251;
     const static int omr = 252;
 
